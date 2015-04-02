@@ -1,0 +1,4 @@
+D:\Brijesh\MVC Examples\SendMailSite\SendMailSite\bin\SendMailSite.dll
+D:\Brijesh\MVC Examples\SendMailSite\SendMailSite\bin\SendMailSite.pdb
+D:\Brijesh\MVC Examples\SendMailSite\SendMailSite\obj\Debug\SendMailSite.dll
+D:\Brijesh\MVC Examples\SendMailSite\SendMailSite\obj\Debug\SendMailSite.pdb
